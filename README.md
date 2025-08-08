@@ -5,6 +5,6 @@
 ## About
 I build simple, fast web tools for everyday use. Currently working on **Playlist Converter** - Tool which lets you convert playlists from one streaming service to another using OAuth2.
 ## Looking for
-Junior backend roles or Fullstack React/Java roles — ideally remote or Tbilisi-based.
+Junior backend roles or Fullstack React/Java roles - ideally remote or Tbilisi-based.
 
 I love deep focus sprints, (give me a quiet room ^_^).
