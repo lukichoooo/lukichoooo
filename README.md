@@ -1,10 +1,9 @@
 # Hi there 👋
 
-**Hard & deep-focus sprint enthusiast** - I work best in long, focused coding sessions.
+**Focused software developer** – I thrive in long, deep-focus coding sessions and enjoy tackling challenging problems.
 
 ## About
-I build simple, fast web tools for everyday use. Currently working on **Playlist Converter** - Tool which lets you convert playlists from one streaming service to another using OAuth2.
-## Looking for
-Junior backend roles or Fullstack React/Java roles - ideally remote or Tbilisi-based.
+I build fast, reliable web tools for practical use. Just Finished **Music Playlist Converter**, a tool that enables seamless playlist migration across streaming platforms using OAuth2. I also enjoy sharpening my problem-solving skills through **LeetCode**, regularly tackling algorithms and data structure challenges.
 
-I love deep focus sprints, (give me a quiet room ^_^).
+## Looking for
+Junior Backend or Fullstack React/Java roles, ideally remote or Tbilisi-based
