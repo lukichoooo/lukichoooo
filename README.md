@@ -1,3 +1,3 @@
-# Hi there 👋
+# LINUX + NVIM ;3
 
 ## haiii
