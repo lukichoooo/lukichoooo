@@ -1,3 +1,3 @@
-# LINUX + NVIM ;3
+# ;3
 
 ## haiii
