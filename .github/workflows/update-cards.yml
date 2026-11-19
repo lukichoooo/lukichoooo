@@ -34,10 +34,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python generator.py --username YOUR_USERNAME
+          python generator.py --username lukichoooo
 
       - name: Update profile card
         run: |
+          mkdir -p profile/assets
           cp generator/output/*.svg profile/assets
 
       - name: Commit changes
